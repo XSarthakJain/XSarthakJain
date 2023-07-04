@@ -1,12 +1,12 @@
-### Hola,I'm Sarthak Jain! 👋
+### Hola, I'm Sarthak Jain! 👋
 
  
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Django & ML.
-- 🌱 I’m currently learning Project Developement.
+- 🌱 I’m currently learning Project Development.
 - 😄 Pronouns: sɑːɾ.t̪ʰək/, [s̪äːɾ.t̪ʰək]
-- 🌐 Website :http://sarthakjain.herokuapp.com/
+<!--- 🌐 Website :http://sarthakjain.herokuapp.com/
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
